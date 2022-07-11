@@ -1,0 +1,70 @@
+.wXk_MG_hotel-card {
+  margin: 10px;
+}
+
+.wXk_MG_hotel-card img {
+  width: 100%;
+  height: 400px;
+}
+
+.wXk_MG_hotel-card .wXk_MG_card-footer {
+  border: 1px solid #000;
+  border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px;
+  display: flex;
+}
+
+.wXk_MG_hotel-card button {
+  width: 50%;
+}
+
+.wXk_MG_hotel-card .wXk_MG_price {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.wXk_MG_card-body .wXk_MG_top {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.wXk_MG_content {
+  display: grid;
+}
+
+.wXk_MG_content .wXk_MG_facilities {
+  grid-column: 1;
+}
+
+.wXk_MG_content .wXk_MG_key-features {
+  grid-column: 2;
+}
+
+
+
+
+
+._7kylGW_wrapper {
+  margin-top: 10px;
+}
+
+._7kylGW_wrapper ._7kylGW_rating {
+  background: gray;
+  display: flex;
+}
+
+._7kylGW_wrapper ._7kylGW_price-per-person {
+  margin-bottom: 10px;
+}
+
+.RJch-G_holiday-result .RJch-G_wrapper {
+  grid-template-columns: 1fr 3fr;
+  grid-auto-rows: 20px;
+  gap: 10px;
+  display: grid;
+}
+
+/*# sourceMappingURL=results.route.21e31c38.css.map */
